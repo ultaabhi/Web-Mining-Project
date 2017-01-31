@@ -1,8 +1,5 @@
 # Web-Mining-Project
 
-Prediction_of_Users_Web_Browsing_Behaviour
-
-Web Mining Project Title: Prediction of User’s Web-Browsing Behavior Using All-Kth Markov Model.
 
 Introduction:
 
